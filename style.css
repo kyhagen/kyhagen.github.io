@@ -4,6 +4,7 @@ body {
 
 h1{
 background-color:Black;
+opacity: 0.3;
 color:White;
 font-size:3em;
 }
