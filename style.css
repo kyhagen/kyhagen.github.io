@@ -30,7 +30,6 @@ width: 80px;
 ul.nav li a{
   display:inline-block;
   paddding:10px;
-  background-color:Darkgray;
   color:black;
   text-decoration:none;
 }
