@@ -25,12 +25,12 @@ p{
 }
 ul.nav li{
 display: inline;
-paddding:20px;
+paddding:70px;
 width: 80px;
 }
 ul.nav li a{
   display:inline-block;
-  paddding:10px;
+  paddding:50px;
   color:black;
   background-color:Snow
   text-decoration:none;
