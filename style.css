@@ -30,7 +30,7 @@ margin: 30px;
 width: 60px;
 }
 ul.nav li a{
-  display:block;
+  display:inline-block;
   paddding:50px;
   font-size:20px;
   color:black;
