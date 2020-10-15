@@ -22,4 +22,17 @@ p{
   font-family: Palatino Linotype", "Book Antiqua", Palatino, serif; 
   font-weight: 400;
 }
-  
+
+}
+ul.nav li{
+  display: inline;
+    paddding:10px;
+}
+
+}
+ul.nav li a{
+  display: block;
+    paddding:10px;
+  background-color:Darkseagreen;
+  color:black;
+}
