@@ -36,6 +36,6 @@ ul.nav li a{
   color:black;
   text-decoration:none;
 }
-ul.nav i a:hover{
+ul.nav li a:hover{
   background-color:DarkGray;
 }
