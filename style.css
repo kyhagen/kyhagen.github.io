@@ -24,7 +24,7 @@ p{
    
 }
 ul.nav li{
-display: block;
+display: inline-block;
 paddding:10px;
 margin: 30px;
 width: 60px;
