@@ -21,12 +21,13 @@ p{
   font-stretch: normal;
   font-style: normal;
   font-size: 20px
-    
-  img{
+}
+
+img{
    display: block;
    float: right;
    border: 15px solid Snow;
-  } 
+} 
    
 }
 ul.nav li{
