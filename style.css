@@ -24,7 +24,7 @@ p{
 }
 ul.nav li{
 display: inline;
-paddding:10px;
+paddding:20px;
 width: 80px;
 length: 40px;
 }
@@ -33,4 +33,8 @@ ul.nav li a{
   paddding:10px;
   background-color:Darkseagreen;
   color:black;
+  text-decoration:none;
+}
+ul.nav i a:hover{
+  background-color:DarkGray;
 }
