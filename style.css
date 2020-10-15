@@ -26,16 +26,14 @@ ul.nav li{
 display: inline;
 paddding:20px;
 width: 80px;
-length: 40px;
 }
 ul.nav li a{
   display:inline-block;
   paddding:10px;
-  font-size: 30px
-  background-color:Darkseagreen;
+  background-color:Darkgray;
   color:black;
   text-decoration:none;
 }
 ul.nav li a:hover{
-  background-color:Darkseagreen;
+  background-color:DarkGray;
 }
