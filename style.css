@@ -14,3 +14,12 @@ color:Black;
 font-style: oblique;
 font-size: 20px;
 }
+
+p{
+  color:Black;
+  font-stretch: normal;
+  font-style: normal;
+  font-family: Palatino Linotype", "Book Antiqua", Palatino, serif; 
+  font-weight: 200;
+}
+  
