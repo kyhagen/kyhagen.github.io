@@ -1,0 +1,51 @@
+body {
+background-color:Tan;
+}
+
+h1{
+background-color:Black;
+text-align: center;
+opacity: 0.9;
+color:White;
+font-size:50px;
+}
+
+h2{
+color:Black;
+font-style: oblique;
+font-size: 30px;
+}
+
+p{
+  color:Black;
+  font-stretch: normal;
+  font-style: normal;
+  font-size: 20px
+}
+
+img{
+   display: block;
+   float: right;
+   border: 15px solid Snow;
+} 
+   
+ul.nav li{
+display: block;
+text-align:Left;
+paddding:10px;
+margin: 80px;
+width: 80px;
+}
+
+ul.nav li a{
+  display:block;
+  paddding:80px;
+  font-size:25px;
+  text-align: center;
+  color:black;
+  background-color:Snow;
+  text-decoration:none;
+}
+
+ul.nav li a:hover{
+  background-color:LightGray;
