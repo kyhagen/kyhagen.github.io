@@ -23,7 +23,7 @@ p{
   font-family: Palatino Linotype", "Book Antiqua", Palatino, serif; 
 }
 ul.nav li{
-display: inline;
+display: block;
 paddding:70px;
 width: 50px;
 }
