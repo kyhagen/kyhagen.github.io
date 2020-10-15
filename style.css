@@ -25,6 +25,7 @@ p{
 }
 ul.nav li{
 display: inline-block;
+text-align: center;
 paddding:10px;
 margin: 80px;
 width: 60px;
