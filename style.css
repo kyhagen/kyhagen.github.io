@@ -29,7 +29,7 @@ width: 50px;
 length: 20px;
 }
 ul.nav li a{
-  display:block;
+  display:inline-block;
   paddding:10px;
   background-color:Darkseagreen;
   color:black;
