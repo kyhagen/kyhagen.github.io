@@ -37,6 +37,7 @@ paddding:10px;
 margin: 80px;
 width: 80px;
 }
+
 ul.nav li a{
   display:block;
   paddding:80px;
@@ -45,8 +46,8 @@ ul.nav li a{
   color:black;
   background-color:Snow;
   text-decoration:none;
-  
 }
+
 ul.nav li a:hover{
   background-color:LightGray;
 }
