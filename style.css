@@ -27,13 +27,13 @@ ul.nav li{
 display: inline-block;
 text-align: center;
 paddding:10px;
-margin: 80px;
-width: 60px;
+margin: 100px;
+width: 80px;
 }
 ul.nav li a{
   display:inline-block;
   paddding:50px;
-  font-size:20px;
+  font-size:30px;
   color:black;
   background-color:Snow;
   text-decoration:none;
