@@ -23,12 +23,12 @@ p{
   font-family: Palatino Linotype", "Book Antiqua", Palatino, serif; 
   font-weight: 400;
 }
-ul.nav li{
+ol.nav li{
 display: inline;
 paddding:70px;
 width: 80px;
 }
-ul.nav li a{
+ol.nav li a{
   display:inline-block;
   paddding:50px;
   color:black;
@@ -36,6 +36,6 @@ ul.nav li a{
   text-decoration:none;
   font-size:20px;
 }
-ul.nav li a:hover{
+ol.nav li a:hover{
   background-color:LightGray;
 }
