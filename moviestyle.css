@@ -18,8 +18,8 @@ font-size: 30px;
 
 h3{
 text-decoration:none;
-display:block;
-paddding:80px;
+display:inline-block;
+paddding:100px;
 width: 80px;
 background-color:Black;
 text-align: Left;
