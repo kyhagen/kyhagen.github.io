@@ -26,7 +26,7 @@ p{
 img{
    display: block;
    float: right;
-   border: 15px solid Snow;
+   border: 15px solid #165E2C;
 } 
    
 ul.nav li{
@@ -42,8 +42,8 @@ ul.nav li a{
   paddding:80px;
   font-size:25px;
   text-align: center;
-  color:black;
-  background-color:Snow;
+  color:Snow;
+  background-color:#165E2C;
   text-decoration:none;
 }
 
