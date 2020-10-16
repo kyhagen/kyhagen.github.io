@@ -17,8 +17,10 @@ font-size: 30px;
 }
 
 h3{
+background-color:Black;
 text-align: Left;
-color:Black;
+opacity: 0.9;
+color:White;
 font-size:25px;
 }
 
