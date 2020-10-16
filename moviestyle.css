@@ -31,6 +31,13 @@ font-size:25px;
 
 p{
   color:Black;
+  font-stretch: Bold;
+  font-style: normal;
+  font-size: 18px
+}
+
+p1{
+  color:Black;
   font-stretch: normal;
   font-style: normal;
   font-size: 18px
