@@ -18,9 +18,9 @@ font-size: 30px;
 
 h3{
 text-decoration:none;
-display:inline-block;
+display:block;
 paddding:100px;
-width: 80px;
+width: 120px;
 background-color:Black;
 text-align: Left;
 opacity: 0.9;
