@@ -18,11 +18,7 @@ font-size: 30px;
 
 h3{
 text-decoration:none;
-display:block;
-paddding:200px;
-width: 220px;
-length:300px;
-background-color:Black;
+font-weight: bold;
 text-align: Left;
 opacity: 0.9;
 color:White;
@@ -47,25 +43,4 @@ img{
    display: block;
    float: right;
    border: 15px solid Snow;
-} 
-   
-ul.nav li{
-display: block;
-text-align:Left;
-paddding:10px;
-margin: 80px;
-width: 80px;
-}
 
-ul.nav li a{
-  display:block;
-  paddding:80px;
-  font-size:25px;
-  text-align: center;
-  color:black;
-  background-color:Snow;
-  text-decoration:none;
-}
-
-ul.nav li a:hover{
-  background-color:LightGray;
