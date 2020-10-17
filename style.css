@@ -26,7 +26,7 @@ p{
 img{
    display: block;
    float: right;
-   border: 15px solid #165E2C;
+   border: 15px opacity: 0.6; #165E2C;
 } 
    
 ul.nav li{
@@ -44,6 +44,7 @@ ul.nav li a{
   text-align: center;
   color:Snow;
   background-color:#165E2C;
+  opacity: 0.6;
   text-decoration:none;
 }
 
