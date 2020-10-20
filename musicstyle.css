@@ -57,8 +57,7 @@ img{
    display: block;
    float: Centre;
 h4{ 
-  
-  #customers {
+#customers {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 100%;
@@ -80,5 +79,5 @@ h4{
   background-color: #4CAF50;
   color: white;
 }
-
+  
 }
