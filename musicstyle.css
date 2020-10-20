@@ -64,8 +64,6 @@ p3{
 
 #customers tr:nth-child(even){background-color: Black; opacity: 0.9; color:white;}
 
-#customers tr:hover {background-color: Grey;}
-
 #customers th {
   padding-top: 12px;
   padding-bottom: 12px;
