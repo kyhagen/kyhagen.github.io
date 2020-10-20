@@ -48,14 +48,15 @@ p1{
 }
 
 p3{
-  display: flex;
-  align-items: center;
-  justify-content: center;
+   margin-right:0;
+    margin-left: auto;
+    display:block;
 }
 
 img{
-   display: block;
-   float: Centre;
+   margin-right:0;
+    margin-left: auto;
+    display:block;
 }
 
 #customers {
