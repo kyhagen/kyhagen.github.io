@@ -53,10 +53,6 @@ p3{
   justify-content: center;
 }
 
-img{
-   display: block;
-   float: Centre;
-h4{ 
 #customers {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   border-collapse: collapse;
@@ -79,5 +75,5 @@ h4{
   background-color: #4CAF50;
   color: white;
 }
-  
-}
+
+
