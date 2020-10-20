@@ -62,7 +62,7 @@ p3{
   padding: 8px;
 }
 
-#customers tr:nth-child(even){background-color: Black; color:white;}
+#customers tr:nth-child(even){background-color: Black; opacity: 0.9; color:white;}
 
 #customers tr:hover {background-color: Grey;}
 
