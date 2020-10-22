@@ -2,6 +2,7 @@ body {
 background-color:Tan;
 }
 
+
 h1{
 background-color:Black;
 text-align: center;
@@ -13,14 +14,28 @@ font-size:50px;
 h2{
 color:Black;
 font-style: oblique;
-font-size: 30px;
+font-size: 20px;
 }
 
-p{
+h3{
+display: flex;
+align-items: center;
+justify-content: center;
+text-decoration:none;
+font-weight: bold;
+opacity: 0.9;
+color:Black;
+font-size:35px;
+}
+
+h4{
+  display: flex;
+  align-items: center;
+  justify-content: center;
   color:Black;
   font-stretch: normal;
-  font-weight: bold;
-  font-size: 20px
+  font-style: normal;
+  font-size: 20px;
 }
 
 p{
@@ -36,8 +51,7 @@ p{
 img{
    display: block;
    float: Centre;
-  border: 15px solid Snow;
-} 
+   border: 15px solid Snow; 
    
 ul.nav li{
 display: inline-block;
