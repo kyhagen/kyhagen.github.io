@@ -23,21 +23,19 @@ p{
   font-size: 20px
 }
 
-p3{
-display: flex;
-align-items: center;
-justify-content: center;
-}
-
-p4{
-display: flex;
-align-items: center;
-justify-content: center;
+p{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color:Black;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 20px;
 }
 
 img{
    display: block;
-   float: centre;
+   float: Centre;
   border: 15px solid Snow;
 } 
    
