@@ -58,15 +58,14 @@ img{
    border: 15px solid Snow; 
 }
 ul.nav li{
-display:inline;
-paddding:10px;
-margin:20px;
+  display:inline;
+  paddding:10px;
 }
 ul.nav li a{
   display:inline-block;
   paddding:10px;
-  color:Black;
   background-color:Snow;
+  color:Black;
   text-decoration:none;
 }
 ul.nav li a:hover{
