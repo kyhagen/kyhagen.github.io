@@ -47,20 +47,20 @@ p1{
   font-size: 20px;
 }
 
-#customers {
+.customers {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 100%;
 }
 
-#customers td, #customers th {
+.customers td, .customers th {
   border: 1px solid #ddd;
   padding: 8px;
 }
 
-#customers tr:nth-child(even){background-color: Black; opacity: 0.9; color:white;}
+.customers tr:nth-child(even){background-color: Black; opacity: 0.9; color:white;}
 
-#customers th {
+.customers th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
