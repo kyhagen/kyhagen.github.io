@@ -56,13 +56,12 @@ img{
    display: block;
    float: Centre;
    border: 15px solid Snow; 
-   
+}
 ul.nav li{
 display:inline;
 paddding:10px;
 margin:20px;
 }
-
 ul.nav li a{
   display:inline-block;
   paddding:10px;
@@ -70,7 +69,6 @@ ul.nav li a{
   background-color:Snow;
   text-decoration:none;
 }
-
 ul.nav li a:hover{
   background-color:LightGrey;
 }
