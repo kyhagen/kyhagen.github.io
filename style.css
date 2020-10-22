@@ -60,10 +60,13 @@ img{
 ul.nav li{
   display:inline;
   paddding:10px;
+  margins: 40px;
+  font-size: 35px;
 }
 ul.nav li a{
   display:inline-block;
   paddding:10px;
+  text-align: centre;
   background-color:Snow;
   color:Black;
   text-decoration:none;
