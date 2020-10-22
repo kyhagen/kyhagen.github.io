@@ -56,18 +56,19 @@ img{
    display: block;
    float: Centre;
    border: 15px solid Snow; 
+
 ul.nav li{
   display:inline;
   paddding:30px;
   text-align:centre;
   width:40px;
   margins:40px;
-  font-size:35px;
 }
 ul.nav li a{
   display:inline-block;
   paddding:30px;
   text-align: centre;
+  font-size:35px;
   margins: 40px;
   background-color:Snow;
   color:Black;
