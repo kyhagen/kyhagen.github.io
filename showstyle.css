@@ -27,17 +27,7 @@ color:Black;
 font-size:35px;
 }
 
-p{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color:Black;
-  font-weight: bold;
-  font-style: normal;
-  font-size: 20px;
-}
-
-p1{
+h4{
   display: flex;
   align-items: center;
   justify-content: center;
@@ -47,10 +37,14 @@ p1{
   font-size: 20px;
 }
 
-p3{
+p{
   display: flex;
   align-items: center;
   justify-content: center;
+  color:Black;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 20px;
 }
 
 img{
