@@ -66,6 +66,7 @@ ul.nav li{
 ul.nav li a{
   display:inline-block;
   paddding:10px;
+  font-size: 35px
   background-color:Snow;
   color:Black;
   text-decoration:none;
