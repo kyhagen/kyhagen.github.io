@@ -59,17 +59,12 @@ img{
    
 ul.nav li{
 display: inline;
-text-align: center;
 paddding:10px;
-margin: 90px;
-width: 90px;
 }
 
 ul.nav li a{
   display:inline;
-  paddding:80px;
-  font-size:35px;
-  text-align: center;
+  paddding:10px;
   color:Black;
   background-color:Snow;
   text-decoration:none;
