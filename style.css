@@ -55,14 +55,14 @@ img{
 }
 
 ul.nav li{
-  display: flex;
+  display: inline;
   align-items: center;
   justify-content: center;
   padding:9px;
   width:9px;
 }
 ul.nav li a{
- display: flex;
+  display: inline-block;
   align-items: center;
   justify-content: center;
   padding:10px;
