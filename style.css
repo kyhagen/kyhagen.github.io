@@ -58,7 +58,6 @@ ul.nav li{
   display: inline;
   align-items: center;
   justify-content: center;
-  margins: 150px;
   padding:9px;
   width:90px;
 }
@@ -68,6 +67,7 @@ ul.nav li a{
   justify-content: center;
   padding:10px;
   font-size: 35px;
+  margins: 150px;
   text-align: centre;
   background-color:Snow;
   color:Black;
