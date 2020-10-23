@@ -55,7 +55,6 @@ img{
 }
 
 ul.nav li{
-  display: inline;
   align-items: center;
   justify-content: center;
   padding:9px;
