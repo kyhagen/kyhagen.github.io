@@ -55,13 +55,16 @@ img{
 }
 
 ul.nav li{
-  display:inline;
-  text-align: centre:
+  display: flex;
+  align-items: center;
+  justify-content: center;
   padding:9px;
   width:9px;
 }
 ul.nav li a{
-  display:inline-block;
+ display: flex;
+  align-items: center;
+  justify-content: center;
   padding:10px;
   margins: 30px;
   font-size: 35px;
