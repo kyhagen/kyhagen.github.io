@@ -60,14 +60,13 @@ ul.nav li{
   justify-content: center;
   margins: 150px;
   padding:9px;
-  width:9px;
+  width:35px;
 }
 ul.nav li a{
   display: inline-block;
   align-items: center;
   justify-content: center;
   padding:10px;
-  
   font-size: 35px;
   text-align: centre;
   background-color:Snow;
