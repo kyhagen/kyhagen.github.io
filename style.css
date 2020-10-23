@@ -58,12 +58,12 @@ ul.nav li{
   display:inline;
   text-align: centre:
   padding:9px;
-  margins: 35px;
   width:9px;
 }
 ul.nav li a{
   display:inline-block;
   padding:10px;
+  margins: 30px;
   font-size: 35px;
   text-align: centre;
   background-color:Snow;
